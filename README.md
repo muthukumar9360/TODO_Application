@@ -31,7 +31,7 @@ This is a full-stack Todo application that allows users to create, read, update,
 The repository is organized into two main folders to separate the frontend and backend concerns.
 
 ```bash
-/MERN-Todo
+/TODO_Application
 
 ├── client/                      # Frontend React application
 │   ├── public/
